@@ -56,7 +56,7 @@ def turtleLetter(letter,tur):
 	    pass
     elif letter == "K":
 	    pass
-    elif letter == "L":
+    elif letter == "L":#Gabe's5
 	    pass
     elif letter == "M":
 	    pass
@@ -66,7 +66,7 @@ def turtleLetter(letter,tur):
 	    pass
     elif letter == "P":
 	    pass		
-    elif letter == "Q":
+    elif letter == "Q":#Nick's 5
 	    pass
     elif letter == "R":
 	    pass
@@ -76,7 +76,7 @@ def turtleLetter(letter,tur):
 	    pass
     elif letter == "U":
 	    pass
-    elif letter == "V":
+    elif letter == "V":#Chase does last 5
 	    pass
     elif letter == "W":
 	    pass
