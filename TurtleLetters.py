@@ -36,7 +36,7 @@ def turtleLetter(letter,tur):
         tur.right(90)
         tur.fd(35)
         #tur.right(180)
-    elif letter == "B":
+    elif letter == "B":#Goutham's 5
 	    pass
     elif letter == "C":
 	    pass
@@ -46,7 +46,7 @@ def turtleLetter(letter,tur):
 	    pass
     elif letter == "F":
 	    pass
-    elif letter == "G":
+    elif letter == "G":#Carter's 5
 	    pass		
     elif letter == "H":
 	    pass
