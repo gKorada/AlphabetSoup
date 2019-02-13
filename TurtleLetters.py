@@ -109,7 +109,7 @@ def turtleLetter(letter,tur):
         tur.fd(20)
         tur.left(180)
         tur.fd(55)
-        tur.left(90)
+        tur.left(180)
         tur.pu()
         tur.fd(60)
         tur.right(90)
