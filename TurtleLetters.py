@@ -230,7 +230,8 @@ def turtleLetter(letter,tur):
         tur.fd(30)
         tur.left(90)
         tur.fd(30)
-        tur.pu()  
+        tur.pu()
+	tur.fd(20)
     elif letter == "M":
         tur.pu()
         tur.back(5)
@@ -250,7 +251,8 @@ def turtleLetter(letter,tur):
         tur.back(30)
         tur.left(90)
         tur.fd(5)
-        tur.pu() 
+        tur.pu()
+	tur.fd(20)
     elif letter == "N":
         tur.pu()
         tur.back(5)
@@ -268,6 +270,7 @@ def turtleLetter(letter,tur):
         tur.fd(30)
         tur.right(90)
         tur.pu()
+	tur.fd(20)
     elif letter == "O":
         tur.pu()
         tur.back(5)
@@ -281,7 +284,8 @@ def turtleLetter(letter,tur):
         tur.fd(30)
         tur.right(90)
         tur.fd(35)
-        tur.pu()  
+        tur.pu()
+	tur.fd(20)
     elif letter == "P":
         tur.pu()
         tur.back(5)
@@ -299,7 +303,8 @@ def turtleLetter(letter,tur):
         tur.fd(60)
         tur.right(90)
         tur.fd(30)
-        tur.pu()		
+        tur.pu()
+	tur.fd(20)
     elif letter == "Q":#Nick's 5
         tur.pu()
         tur.fd(5)
