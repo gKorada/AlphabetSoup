@@ -297,6 +297,7 @@ def turtleLetter(letter,tur):
         tur.right(90)
         tur.fd(45)
     elif letter == "L":#Gabe's5
+	tur.pd()
         tur.right(90)
         tur.fd(60)
         tur.left(90)
